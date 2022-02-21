@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Yutong-Lu
-- 👀 I’m interested in ...
-- 🌱 I’m currently a undergraduate student at Univerisity of Toronto.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a undergraduate student in Applied Statistics Specialist at Univerisity of Toronto.
 
 <!---
 Yutong-Lu/Yutong-Lu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
